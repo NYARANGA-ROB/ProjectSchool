@@ -109,6 +109,7 @@ Typically, you can update most of the time following these steps
 * Log in to the application with the following credentials
     * Email: super@admin.com
     * Password: password
+      
 
 * You would be prompted to change your password, change your passsword in the profile page to continue
 
@@ -167,6 +168,7 @@ Todo
 - Write docs using a tool like larecipe
 - Write issue and contribution template file
 etc
+
 
 
 
