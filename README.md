@@ -56,6 +56,7 @@ cp .env.example .env
 ```shell
 npm install
 ```
+
 * Build NPM assets
 ```shell
   npm run build
@@ -165,6 +166,7 @@ Todo
 - Write docs using a tool like larecipe
 - Write issue and contribution template file
 etc
+
 
 
 
