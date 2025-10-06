@@ -16,7 +16,6 @@
 
 ![schooldash-dahboard-page](https://user-images.githubusercontent.com/63137056/216740379-18cb9f1d-5e80-4bc8-8b99-07d08ea98da4.png)
 
-
 # CONGRATS V2 OF SKUUL IS OUT
 
 Skuul is awesome, but it had a few shortcomings when it came to some areas like UI speed and application slugishness as it grows. Version 2 fixes these issues and also improves on accessibility. 
@@ -168,6 +167,7 @@ Todo
 - Write docs using a tool like larecipe
 - Write issue and contribution template file
 etc
+
 
 
 
