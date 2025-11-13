@@ -23,6 +23,7 @@ V2 is way faster and doesn't slow down condiderably as the app grows. Also upgra
 
 ### Skuul is a multi school management system that aims to make school administration and activities a breeze by using the power of the internet and increased connectinity
 
+
 ## Requirements
 * Php 8.1 and above
 * Composer 
@@ -163,6 +164,7 @@ Todo
 - Write docs using a tool like larecipe
 - Write issue and contribution template file
 etc
+
 
 
 
