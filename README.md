@@ -70,8 +70,6 @@ php artisan migrate
 ```
 * Seed database 
 
-
-
     You can seed the database in 2 ways
     - For production ie in your live server
         ```shell
@@ -167,6 +165,7 @@ Todo
 - Write docs using a tool like larecipe
 - Write issue and contribution template file
 etc
+
 
 
 
