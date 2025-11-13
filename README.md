@@ -11,7 +11,6 @@
         <img src="https://poser.pugx.org/yungifez/skuul/license.svg" alt="License">
     </a>
 </p>
-
 >In search of good school management systems written in laravel, I tried so many although most were quite remarkably good they lacked some essential features that I would have loved in a school management system.This made me passionate in building my own school management system. Although it has been difficult, it's actually forming up into a quite useable project.
 
 ![schooldash-dahboard-page](https://user-images.githubusercontent.com/63137056/216740379-18cb9f1d-5e80-4bc8-8b99-07d08ea98da4.png)
@@ -164,6 +163,7 @@ Todo
 - Write docs using a tool like larecipe
 - Write issue and contribution template file
 etc
+
 
 
 
