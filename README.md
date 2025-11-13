@@ -59,7 +59,6 @@ npm install
 ```shell
   npm run build
 ```
-
 Note if you do not have node, you can do this in your local environment and using an ftp program upload the publi/build folder and manifest.json folder to your server
 * Generate encryption key
 ```shell
@@ -168,6 +167,7 @@ Todo
 - Write docs using a tool like larecipe
 - Write issue and contribution template file
 etc
+
 
 
 
