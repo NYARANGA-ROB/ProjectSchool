@@ -55,7 +55,6 @@ cp .env.example .env
 ```shell
 npm install
 ```
-
 * Build NPM assets
 ```shell
   npm run build
@@ -71,6 +70,7 @@ php artisan key:generate
 php artisan migrate
 ```
 * Seed database 
+
 
 
     You can seed the database in 2 ways
@@ -168,6 +168,7 @@ Todo
 - Write docs using a tool like larecipe
 - Write issue and contribution template file
 etc
+
 
 
 
